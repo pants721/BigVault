@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0aa17b81a16993e0",
+        "id": "0d8d3556031d5bfc",
         "type": "tabs",
         "children": [
           {
-            "id": "1ff64ee03867a1f2",
+            "id": "2318ffe3c474b24b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AP Comparative Gov 2022-23/Unit 2 Crunch.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7a23a1844fabc9b7",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AP Comparative Gov 2022-23/Unit 2 Crunch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AP Comparative Gov 2022-23/Unit 2 Crunch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AP Comparative Gov 2022-23/Unit 2 Crunch.md"
+              }
             }
           }
         ]
@@ -138,6 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ff64ee03867a1f2",
-  "lastOpenFiles": []
+  "active": "2318ffe3c474b24b",
+  "lastOpenFiles": [
+    "AP Comparative Gov 2022-23/Unit 2 Crunch.md",
+    "Untitled.md"
+  ]
 }
