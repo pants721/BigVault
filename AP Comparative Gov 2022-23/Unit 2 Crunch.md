@@ -138,6 +138,8 @@ Oh my god another fucking one of these
 |China|Mexico|
 |Iran|Nigeria|
 ||Russia|
+||The UK|
+
 
 #### China
 - Party controlled legislative system
@@ -183,9 +185,77 @@ Oh my god another fucking one of these
 - An appointed House of Lords review and amends bills from the Commons, delaying implementation as a **power check**
 
 
+### Topic 2.7
+## Independent Legislatures
+
+- Legislative powers can be constrained by other governmental institutions
+	Examples include:
+	- China's Politburo Standing Committee, the actual center of power in the Chinese state
+	- China's Standing Committee of the NPC, which has legislative duties most of the year when the NPC is not in session, sets NPC legis agenda, supervises NPC member elections, and interprets the Constitution and laws
+	- Iran's Expediency Council, which is selected by the SL to advise the resolution of disputes between the Majles and the Guardian Council
+	- Iran's Guardian Council itself oversees the Majles the make sure laws are tight and good and shit
+- Legis's have potential to reinforce legitimacy and stability by responding to public demand, openly debating policy, facilitating compromise between factions, extending civil liberties, and restricting the power of the executive
 
 
+### Topic 2.8
+## Judicial Systems
 
+AGAIN IM GOING TO SCREAM
+
+- Judiciaries have different functions in the course countries
+- They use various methods to appoint judges 
+- In all, judges interpret and apply laws, as well as resolve disputes
+Here we go 
+
+#### China
+- Rule by law, not rule of law
+- Judicial system is subservient to the decisions of the CCP
+- CCP controls most judicial appointments
+
+#### Iran
+- Judiciary's major function is to ensure that the legal system is based on religious law
+- Judges must be trained in Islamic Sharia law
+- Head of the judiciary is appointed by the Supreme Leader and can nominate half of the Guardian Council with the approval of the Majles
+
+#### Mexico
+- Currently, Mexican judiciary is in transition
+- Supreme Court has the power of judicial review 
+- Amendments to the constitution have been made to make the system more independent and effective
+
+
+#### Mexico part 2 electric boogaloo
+- Supreme Court magistrates are nominated by the president and approved by the Senate for 15 year terms
+
+#### Nigeria
+- Supreme Court judges are recommended by a judicial council and are appointed by the president with confirmation by the Senate
+- Basically, everyone needs to be chill with it
+
+#### Russia
+- Judges are nominated by the president and approved by the federation council
+
+#### The UK
+- Common law enforces rule of law (dk what this means tbh)
+- Major functions of the supreme court:
+	- Serving as the final court of appeals
+	- Protecting civil and human rights/liberties
+	- Ruling on devolution disputes
+
+
+### Topic 2.9
+## Independent Judiciaries
+
+GOD WHY ARE THESE WORDS SO FUCKING LONG
+- A judiciary's independence from other branches depends on:
+	- How much authority the courts have to overrule exec and legis actions
+	- How judicial officials acquire their jobs
+	- Length of terms
+	- Pro and academic backgrounds that judicial officials are expected to have
+	- How judges are removed
+
+- Independent judiciaries (oh my god use shorter works istg im switching to dvorak) can strengthen democracy by maintaining check and balances, protecting rights and liberties, establishing rule of law, and maintaining seperation of power
+- So basically keeping things in balance, making sure everyone has rights, and making sure the power is included in that balance
+
+FINALLY DONE THANK THE LORD
 
 
 
